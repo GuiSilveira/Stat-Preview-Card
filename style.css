@@ -86,7 +86,7 @@ body {
 .image-div {
     width: 430px;
     height: 345px;
-    background: url("/images/image-header-desktop.jpg") no-repeat;
+    background: url("images/image-header-desktop.jpg") no-repeat;
     background-size: cover;
     display: flex;
 }
